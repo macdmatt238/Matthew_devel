@@ -12,7 +12,7 @@ int main(void)
     else
         printf("You Don't know how to use Git!");
     
-
+    
     printf("\n");
 
     return 0;
